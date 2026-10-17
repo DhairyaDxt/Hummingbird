@@ -1,0 +1,65 @@
+{
+    "HummingBird": {
+        "checkpoints": [
+            {
+                "steps": 3499984,
+                "file_path": "results\\Hummingbird_10Islands_01\\HummingBird\\HummingBird-3499984.onnx",
+                "reward": 33.7182212471962,
+                "creation_time": 1790276404.3452463,
+                "auxillary_file_paths": [
+                    "results\\Hummingbird_10Islands_01\\HummingBird\\HummingBird-3499984.pt"
+                ]
+            },
+            {
+                "steps": 3999984,
+                "file_path": "results\\Hummingbird_10Islands_01\\HummingBird\\HummingBird-3999984.onnx",
+                "reward": null,
+                "creation_time": 1790278734.1012151,
+                "auxillary_file_paths": [
+                    "results\\Hummingbird_10Islands_01\\HummingBird\\HummingBird-3999984.pt"
+                ]
+            },
+            {
+                "steps": 4499984,
+                "file_path": "results\\Hummingbird_10Islands_01\\HummingBird\\HummingBird-4499984.onnx",
+                "reward": null,
+                "creation_time": 1790281421.0500476,
+                "auxillary_file_paths": [
+                    "results\\Hummingbird_10Islands_01\\HummingBird\\HummingBird-4499984.pt"
+                ]
+            },
+            {
+                "steps": 4999984,
+                "file_path": "results\\Hummingbird_10Islands_01\\HummingBird\\HummingBird-4999984.onnx",
+                "reward": null,
+                "creation_time": 1790283814.7366767,
+                "auxillary_file_paths": [
+                    "results\\Hummingbird_10Islands_01\\HummingBird\\HummingBird-4999984.pt"
+                ]
+            },
+            {
+                "steps": 5000240,
+                "file_path": "results\\Hummingbird_10Islands_01\\HummingBird\\HummingBird-5000240.onnx",
+                "reward": null,
+                "creation_time": 1790283814.7765932,
+                "auxillary_file_paths": [
+                    "results\\Hummingbird_10Islands_01\\HummingBird\\HummingBird-5000240.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 5000240,
+            "file_path": "results\\Hummingbird_10Islands_01\\HummingBird.onnx",
+            "reward": null,
+            "creation_time": 1790283814.7765932,
+            "auxillary_file_paths": [
+                "results\\Hummingbird_10Islands_01\\HummingBird\\HummingBird-5000240.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.2.1+cpu"
+    }
+}
